@@ -3,4 +3,4 @@ Good commit
 my name is shivam.
 
 # project details.
-project for food menegemet.
+project for food menegemet
